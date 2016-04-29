@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello World"
 date:   2016-04-10 10:18:00
-categories: Thriller Comedy Horror
+categories:
 ---
 
 
