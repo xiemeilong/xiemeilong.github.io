@@ -1,0 +1,15 @@
+name: 谢美龙
+description: 互联网架构与大数据
+meta_description: "互联网架构与大数据"
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://xiemeilong.win'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'http://xiemeilong.win'
+author:         '谢美龙'
