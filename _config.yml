@@ -3,7 +3,7 @@ description: 互联网架构与大数据，非教程式技术分享
 meta_description: "互联网架构 大数据 Java 架构师"
 
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
