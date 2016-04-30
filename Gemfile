@@ -1,1 +1,0 @@
- gem 'my-awesome-jekyll-theme'
