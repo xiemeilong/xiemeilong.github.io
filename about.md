@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me 
+title: 谢美龙
 ---
 
 {{ site.meta_description }}
