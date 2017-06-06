@@ -2208,6 +2208,7 @@ var domains = {
   "twitterkr.com": 1, 
   "twittermail.com": 1, 
   "twittertim.es": 1, 
+  "twimg.com":1,
   "twitthat.com": 1, 
   "twitturk.com": 1, 
   "twitturly.com": 1, 
